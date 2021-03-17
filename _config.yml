@@ -81,7 +81,7 @@ gitalk:
   clientSecret: 1ba4cf8ae2e1b2a82d4ca3ae7fda3474fe034772
   repo: blog-comment
   owner: czyodlight
-  proxy:
+  #proxy:
 
 # 输入Google Analytics web tracking code
 google_analytics:
