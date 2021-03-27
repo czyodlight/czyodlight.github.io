@@ -5,8 +5,6 @@ date: 2020-01-21
 Author: halin
 tag: [mysql][web]
 conmment: false
-toc: true
-
 ---
 更新mysql8.0遇到一些问题和解决方法
 <!-- more -->
