@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 更新mysql8.0之后一些问题
-date: 2021-01-21
+title: mysql8一些错误
+date: 2021-1-21
 Author: halin
-tag: [mysql][web]
+tag: [mysql,learning]
 conmment: false
+
 ---
 更新mysql8.0遇到一些问题和解决方法
 <!-- more -->
