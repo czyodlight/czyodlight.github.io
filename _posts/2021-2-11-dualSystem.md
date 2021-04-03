@@ -30,6 +30,7 @@ UEFI下manjaro-windows双系统安装
    - 关闭 Fast Boot（快速启动）
    - 切换 CSM (Legacy/MBR) boot（选择UEFI）
    - 启动 AHCI
+  
 ## window分区
 安装manjaro系统需要腾出32-64G及以上的未分区磁盘空间。
 
