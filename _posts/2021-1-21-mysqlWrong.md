@@ -1,13 +1,13 @@
 ---
 layout: post
-title: mysql8一些错误
+title: mysql 8 一些问题
 date: 2021-1-21
 Author: halin
 tag: [mysql,learning]
 conmment: false
 
 ---
-更新mysql8.0遇到一些问题和解决方法
+更新mysql 8.0遇到一些问题和解决方法
 <!-- more -->
 ## mysql8修改密码
   - ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'; 
