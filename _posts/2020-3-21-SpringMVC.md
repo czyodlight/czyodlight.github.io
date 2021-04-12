@@ -10,6 +10,7 @@ toc: true
 
 SpringMVC学习笔记
 <!-- more -->
+
 SpringMVC是基于java实现的MVC设计模型的请求驱动类型的轻量级Web框架。支持RESTful编程风格。
 
 ## SpringMVC helloword
