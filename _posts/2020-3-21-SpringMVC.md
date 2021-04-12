@@ -1,5 +1,15 @@
-# SpringMVC
+---
+layout: post
+title: SpringMVC学习笔记
+date: 2020-3-21
+Author: halin
+tag: [web,note]
+conmment: false
+toc: true
+---
 
+SpringMVC学习笔记
+<!-- more -->
 SpringMVC是基于java实现的MVC设计模型的请求驱动类型的轻量级Web框架。支持RESTful编程风格。
 
 ## SpringMVC helloword
@@ -103,11 +113,11 @@ SpringMVC是基于java实现的MVC设计模型的请求驱动类型的轻量级W
 
 - views
 
-  ![Demo_views](E:\note\imageOfSpringMVC\Demo_views.png)
+  ![Demo_views](/images/imageOfSpringMVC/Demo_views.png)
 
 ## SpringMVC工作流程
 
-![springMVC_flowChart](E:\note\imageOfSpringMVC\springMVC_flowChart.png)
+![springMVC_flowChart](/images/imageOfSpringMVC/springMVC_flowChart.png)
 
 1. DispatcherServlet拦截用户请求
 2. DispatcherServlet调用HandlerMapping
@@ -462,7 +472,7 @@ public void getHead(@CookieValue(value = "JSESSIONID",required = false) String J
 
   - 当frm表单的 enctype取值为 Mutilpart/form-data 时，请求正文内容就变成多部分形式
 
-    ![file_why](E:\note\imageOfSpringMVC\file_why.png)
+    ![file_why](/images/imageOfSpringMVC/file_why.png)
 
 - controller
 
