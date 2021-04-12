@@ -3,7 +3,7 @@ layout: post
 title: 计算机网络基础
 date: 2020-11-18
 Author: halin
-tag: [note,document]
+tag: [note]
 conmment: false
 toc: true
 
